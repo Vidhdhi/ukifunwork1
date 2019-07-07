@@ -80,7 +80,7 @@ SC.stream('/tracks/163621565',function(sound){
                    e.preventDefault();
                    sound.stop();
                  });
-}); SC.stream('/tracks/393554874',function(sound){/tracks/602682816
+}); SC.stream('/tracks/393554874',function(
    $('#start7').click(function(e) {
            e.preventDefault();
            sound.start();
